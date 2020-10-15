@@ -14,7 +14,7 @@ Step 1. You should add this to your dependencies:
 	
 Step 2. You should add this to your root build.gradle at the end of repositories:
 
-	        implementation 'com.github.claimdi:data-behavior-traking-library:Tag'
+	        implementation 'com.github.arunsawad:MeClaim360_Libary_Tracking_Android:Tag'
 
 ## Library
 
